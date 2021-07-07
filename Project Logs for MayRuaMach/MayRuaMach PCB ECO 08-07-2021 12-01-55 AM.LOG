@@ -1,0 +1,7 @@
+Added Component: Designator=M1(MODULE LM2596 MINI)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V Pin=M1-1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=9V Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Member To Class: ClassName=MayRuaMach Member=Component M1 Module LM2596
